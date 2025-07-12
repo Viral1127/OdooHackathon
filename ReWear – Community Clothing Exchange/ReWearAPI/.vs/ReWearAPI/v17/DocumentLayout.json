@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\controllers\\redemptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\controllers\\redemptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\models\\redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\models\\redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\models\\dtos\\additemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\models\\dtos\\additemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\controllers\\swapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\controllers\\swapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\models\\dtos\\redeemitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\models\\dtos\\redeemitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\data\\reweardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\data\\reweardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|d:\\odoohackathon\\rewear \u2013 community clothing exchange\\rewearapi\\rewearapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D5D93-96F8-4ED9-8946-6BB1BA99AAAD}|ReWearAPI\\ReWearAPI.csproj|solutionrelative:rewearapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddItemModel.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\DTOs\\AddItemModel.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Models\\DTOs\\AddItemModel.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\DTOs\\AddItemModel.cs",
+              "RelativeToolTip": "ReWearAPI\\Models\\DTOs\\AddItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T08:01:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwapController.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\SwapController.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Controllers\\SwapController.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\SwapController.cs",
+              "RelativeToolTip": "ReWearAPI\\Controllers\\SwapController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv/UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:55:15.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "ReWearAPI\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwIIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:52:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedemptionController.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\RedemptionController.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Controllers\\RedemptionController.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\RedemptionController.cs",
+              "RelativeToolTip": "ReWearAPI\\Controllers\\RedemptionController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA/wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:37:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedeemItemModel.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\DTOs\\RedeemItemModel.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Models\\DTOs\\RedeemItemModel.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\DTOs\\RedeemItemModel.cs",
+              "RelativeToolTip": "ReWearAPI\\Models\\DTOs\\RedeemItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:36:56.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Models\\Item.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\Item.cs",
+              "RelativeToolTip": "ReWearAPI\\Models\\Item.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T07:33:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Redemption.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\Redemption.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Models\\Redemption.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Models\\Redemption.cs",
+              "RelativeToolTip": "ReWearAPI\\Models\\Redemption.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:19:50.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReWearDbContext.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Data\\ReWearDbContext.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Data\\ReWearDbContext.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Data\\ReWearDbContext.cs",
+              "RelativeToolTip": "ReWearAPI\\Data\\ReWearDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:25:09.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Program.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Program.cs",
+              "RelativeToolTip": "ReWearAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:34:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ReWearAPI\\appsettings.json",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\appsettings.json",
+              "RelativeToolTip": "ReWearAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T04:32:14.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReWearAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\OdooHackathon\\ReWear \u2013 Community Clothing Exchange\\ReWearAPI\\ReWearAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ReWearAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:03:13.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
