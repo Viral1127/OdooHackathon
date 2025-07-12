@@ -346,3 +346,4 @@ D:\OdooHackathon\ReWear – Community Clothing Exchange\ReWearAPI\ReWearAPI\obj\
 D:\OdooHackathon\ReWear – Community Clothing Exchange\ReWearAPI\ReWearAPI\obj\Debug\net8.0\ReWearAPI.pdb
 D:\OdooHackathon\ReWear – Community Clothing Exchange\ReWearAPI\ReWearAPI\obj\Debug\net8.0\ReWearAPI.genruntimeconfig.cache
 D:\OdooHackathon\ReWear – Community Clothing Exchange\ReWearAPI\ReWearAPI\obj\Debug\net8.0\ref\ReWearAPI.dll
+D:\OdooHackathon\ReWear – Community Clothing Exchange\ReWearAPI\ReWearAPI\obj\Debug\net8.0\ReWearAPI.sourcelink.json
